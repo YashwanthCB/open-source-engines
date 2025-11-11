@@ -97,6 +97,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 ## Java
 
+- **[jMonkeyEngine](https://jmonkeyengine.org/)** - A modern developer friendly game engine primarily written in Java. [[source]](https://github.com/jMonkeyEngine/jmonkeyengine)
+- 
 - **[libJDX](https://libgdx.com)** - A cross-platform Java game development framework. [[source]](https://github.com/libgdx/libgdx)
 
 ## JavaScript
